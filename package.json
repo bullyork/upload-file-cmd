@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/bullyork/upload-file-cmd/issues"
   },
-  "homepage": "https://github.com/bullyork/upload-file-cmd#readme"
+  "homepage": "https://github.com/bullyork/upload-file-cmd#readme",
+  "dependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
 }
