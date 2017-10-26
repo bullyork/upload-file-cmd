@@ -1,0 +1,25 @@
+{
+  "name": "upload-file-cmd",
+  "version": "0.0.1",
+  "description": "upload file to cdn from cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullyork/upload-file-cmd.git"
+  },
+  "keywords": [
+    "js",
+    "upload",
+    "cli",
+    "js"
+  ],
+  "author": "iyork",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bullyork/upload-file-cmd/issues"
+  },
+  "homepage": "https://github.com/bullyork/upload-file-cmd#readme"
+}
